@@ -1,5 +1,7 @@
 # Shawty
+Sort of a successor to the old _Zlux_ shortening service I built way back in PHP.
 
+## Setup
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
